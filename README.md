@@ -7,7 +7,7 @@ To use it, clone to your local repository `git clone git@github.com:jiwhiz/alpha
 
 Add dependency to your Maven project pom.xml:
 
-  <dependency>
+	<dependency>
 		<groupId>com.comfirm.alphamail</groupId>
 		<artifactId>alphamail-java-client</artifactId>
 		<version>0.1.0</version>
