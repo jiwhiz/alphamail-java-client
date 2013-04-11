@@ -5,7 +5,7 @@ This is a clone of [Comfirm AplhaMail J2EE Client](https://github.com/comfirm/al
 
 Add dependency to your Maven project pom.xml:
 
-	</repositories>
+	<repositories>
 	...
 		<repository>
 			<id>jiwhiz.maven</id>
